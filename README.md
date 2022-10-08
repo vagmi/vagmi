@@ -1,6 +1,6 @@
 ## Making the world better one line of code at a time.
 
-Hi, I am Vagmi Mudumbai. I head technology at [[Tarka Labs]](https://tarkalabs.com/). I am a dad and a software craftsman. I enjoy solving problems with code.
+Hi, I am Vagmi Mudumbai. I head technology at [Tarka Labs](https://tarkalabs.com/). I am a dad and a software craftsman. I enjoy solving problems with code.
 
 <!--
 **vagmi/vagmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
