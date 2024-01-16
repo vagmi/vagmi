@@ -1,6 +1,7 @@
 ## Making the world better one line of code at a time.
 
-Hi, I am Vagmi Mudumbai. I am a dad and a software craftsman. I enjoy solving problems with code.
+I am a technology leader with over 20 years of experience building software and software teams. I believe in servant-style leadership. I value honesty and candor in all communications. I can not only bring clarity and direction to the team but also will roll up my sleeves to implement it alongside the team when needed.
+
 
 <!--
 **vagmi/vagmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
