@@ -2,6 +2,7 @@
 
 I am a technology leader with over 23 years of experience building software and software teams. I believe in servant-style leadership. I value honesty and candor in all communications. I can not only bring clarity and direction to the team but also will roll up my sleeves to implement it alongside the team when needed.
 
+I am building a AI agent startup - [Urai AI](https://uraiaai.com)
 
 <!--
 **vagmi/vagmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
