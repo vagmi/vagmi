@@ -2,8 +2,10 @@
 
 Hands-on technology leader with 24 years building software and software teams. Currently CTO & co-founder at [Urai](https://uraiai.com). Urai is platform for voice and chat AI agents.
 
-I take on a small number of **part-time consulting engagements** alongside Urai. Here is some of my work.
-[LinkedIn](https://linkedin.com/in/vagmi) | [Youtube](https://www.youtube.com/@vagmi) | [Let's
+[LinkedIn](https://linkedin.com/in/vagmi) | [Youtube](https://www.youtube.com/@vagmi)  
+
+
+I take on a small number of **part-time consulting engagements** alongside Urai. | [Let's
 Talk](https://tidycal.com/vagmi/30-minute-meeting)
 
 ### ☁️ DevOps & Platform Engineering
