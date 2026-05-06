@@ -1,6 +1,6 @@
 ## Making the world better one line of code at a time.
 
-Hands-on technology leader with 24 years building software and software teams. Currently CTO & co-founder at [Urai AI](https://uraiai.com). Urai is platform for voice and chat AI agents.
+Hands-on technology leader with 24 years building software and software teams. Currently CTO & co-founder at [Urai](https://uraiai.com). Urai is platform for voice and chat AI agents.
 
 I take on a small number of **part-time consulting engagements** alongside Urai. Here is some of my work.
 
