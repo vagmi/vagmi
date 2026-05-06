@@ -1,20 +1,17 @@
 ## Making the world better one line of code at a time.
 
-I am a technology leader with over 23 years of experience building software and software teams. I believe in servant-style leadership. I value honesty and candor in all communications. I can not only bring clarity and direction to the team but also will roll up my sleeves to implement it alongside the team when needed.
+Hands-on technology leader with 24 years building software and software teams. Currently CTO & co-founder at [Urai AI](https://uraiai.com). Urai is platform for voice and chat AI agents.
 
-I am building a AI agent startup - [Urai AI](https://uraiaai.com)
+I take on a small number of **part-time consulting engagements** alongside Urai. Here is some of my
+work.
 
-<!--
-**vagmi/vagmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ DevOps & Platform Engineering
+AWS, GCP, Kubernetes, Terraform/CDKTF, OpenTofu. I build internal platforms that give teams a Heroku-like DX on their own cloud — including [Adikal](https://github.com/niraitech/adikal-aws), an ECS-on-EC2 platform typically 3× cheaper than Fargate, and [k3s-hcloud](https://github.com/adikal-org/k3s-hcloud), a $20 production-grade HA Kubernetes cluster on Hetzner. 
 
-Here are some ideas to get you started:
+### 🦀 Rust
+Production Rust for systems work — V8 isolates, Firecracker microVMs, WebRTC services, and CLI tooling. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent OSS: [ToyJS](https://github.com/vagmi/toyjs) (minimal JS runtime on V8), and [gen_sqlx_type](https://github.com/vagmi/gen_sqlx_type) (compile-time structs from SQL), [pggit](https://github.com/vagmi/pggit) (a Postgres git ODB backend, in Rust).
+
+### 🐘 PostgreSQL
+A decade-plus running Postgres in production involving schema design, query tuning, replication, PITR, and HA on Kubernetes with CloudNativePG + Barman. OSS: [searchbase](https://github.com/vagmi/searchbase) (Postgres image for hybrid RAG search) and [Paagan](https://github.com/vagmi/paagan) (local Postgres manager). 
