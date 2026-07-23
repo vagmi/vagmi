@@ -26,6 +26,7 @@ replication, PITR, and HA on Kubernetes with CloudNativePG + Barman
 
 
 Recent OSS: 
+* [literstream](https://github.com/vagmi/literstream) (SQLite streaming replication and PITR library implemented in Rust)
 * [ToyJS](https://github.com/vagmi/toyjs) (minimal JS runtime on V8) 
 * [gen_sqlx_type](https://github.com/vagmi/gen_sqlx_type) (compile-time structs from SQL)
 * [pggit](https://github.com/vagmi/pggit) (a Postgres git ODB backend, in Rust). 
